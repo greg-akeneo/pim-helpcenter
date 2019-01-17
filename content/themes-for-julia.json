@@ -26,7 +26,7 @@
         "import-export-data":{
             "title": "Import/export data",
             "img": "illus-imports.svg",
-            "description": "Anything you need to know about importing data in your dearest PIM. Here, you'll also find here information about exporting data. 'Cause yeah, product information you cannot export is kind of useless, right?"
+            "description": "Anything you need to know about importing data in your dearest PIM. Here, you'll also find information about exporting data. 'Cause yeah, product information you cannot export is kind of useless, right?"
         },
         "manage-your-assets":{
             "title": "Manage your images, files, assets",
