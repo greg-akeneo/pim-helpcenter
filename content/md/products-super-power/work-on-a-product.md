@@ -99,7 +99,7 @@ If you do not see `+` icon, you might not have the appropriate rights to add an 
 
 In the product form, there is a new "Assets" tab in which you will retrieve all the asset collections of your product. It means that the assets will not be mixed with other values of the product. The asset collections also have a brand new design, here is how it looks:
 
-![asset_collection_attribute](../img/asset_collection_attribute.png)
+![asset_collection_attribute](../img/asset_collection.png)
 
 In the following section, you will discover all the features that are available around this attribute.  
 And to learn more about assets, you can have a look at [this article](work-with-assets.html).
@@ -120,22 +120,9 @@ You can manually link assets to your product using this attribute. To do that, f
 
 ![basket](../img/basket.png)
 
-When hovering the asset, you can remove it from the asset collection, or edit it in order to enrich its attributes.
-
-### Order assets in the asset collection
-
-We know that ordering assets can be important for you. Indeed, it can help you to **organize assets for your different channels**.  
-There is a simple way to do that, directly from the product form.
-
-OK, let's see!
-
-![drag_drop](../img/drag_drop.jpg)
-
-If you have one or several asset collection attribute(s), you can now organize your assets directly in the asset collection in the product form with **the arrows**, and find this order in export file. Simple. Fast. Effective.
+When hovering the asset, you can remove it from the asset collection, or edit it in order to enrich its attributes. But you can also sort them thanks to the **two arrows** that appear when hovering assets. The order you define in the asset collection will be kept when you will export your products (via API and via export jobs).
 
 You need to import assets in a certain order in Akeneo PIM? No problem! Just order your assets in your import file, separating asset names with a comma, then have this order in the PIM. You can also achieve this by using the API.
-
-The order defined in the PIM will also be the same when you'll export your products with the API.
 
 ::: tips
 And if you want to have a look at history, a new version is created in `History` tab each time the user changes the asset order.
@@ -145,7 +132,7 @@ And if you want to have a look at history, a new version is created in `History`
 
 If you have assets linked to your products, you can have a **large display of those assets** clicking on their thumbnails. It is possible to preview images (.png, .jpeg, .tif, .svg, ...), PDF and Youtube videos!
 
-![preview](../img/preview.jpg)
+![preview](../img/preview_asset_collection.jpg)
 
 Where? In the **asset collection** in the **Product Form**.
 
